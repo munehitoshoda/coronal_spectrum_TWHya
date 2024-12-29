@@ -2,4 +2,4 @@
 The X-ray and EUV spectrum data of TW Hya presented by Shoda, Nakatani, and Takasao (2025)
 
 **XUV_spectrum.csv**  
-spectral energy flux of TW Hya measured at a distance of 1 astronomical unit. The first column lists wavelengths (in Å), while the second column shows energy flux per unit wavelength (in erg/cm²/s/Å). Note that although data is available up to 1200 Å, reliable values are limited to those below the Lyman edge (912 Å).
+spectral energy flux of TW Hya measured at a distance of 1 astronomical unit. The first column lists wavelengths (in Å), while the second column shows energy flux per unit wavelength (in erg/cm²/s/Å). Note that although data is available up to 1200 Å, reliable values are limited to those below the Lyman edge (912 Å) (see Figure 5 in [Shoda & Takasao 2021 Astronomy & Astrophysics](https://www.aanda.org/articles/aa/abs/2021/12/aa41563-21/aa41563-21.html).).
